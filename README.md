@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salesmath
 - 👀 I’m interested in Long Short Term Memory Optimization in Recurrent Neural Networks.
-- 🌱 I’m currently learning quantum nano optomechanics.
+- 🌱 I’m currently learning generative recursive NLP techniques. 
 - 💞️ I’m looking to collaborate and provide value on Artificial Intelligence, Machine Learning and Deep Learning projects.
 - 📫 Email me at rizarti@yahoo.com.
 
